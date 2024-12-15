@@ -36,16 +36,6 @@ If you don't have an API Key, [CREATE HERE](https://home.openweathermap.org/api_
 - Weather based on live location
 - Light & Dark Theme options
 
-## Screenshots
-
-**Light Theme**
-
-Add relevant screenshots here.
-
-**Dark Theme**
-
-Add relevant screenshots here.
-
 ## Color Reference
 
 ### Dark Theme
@@ -85,7 +75,7 @@ Add relevant screenshots here.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone "https://github.com/SudipThapa-Arc/Mausam.git"
+git clone "https://github.com/SudipThapa-Arc/mausam.git"
 cd mausam
 ```
 
